@@ -1,4 +1,4 @@
-# Group TEAM_NUMBER
+# Group 11
 Group Name: TEAM_NAME
 
 [MVP Link](https://docs.google.com/document/d/1D1e8OrSayFDIstlgwfkcVtGY27YF5YW0XPu-Luqeqgw/edit)
