@@ -7,4 +7,4 @@ Team Members: STUDENTS_NETIDS
 
 Project Manager: jieshuh2
 
-Doc: 
+Doc: https://docs.google.com/document/d/1Yn0KPnKm2vzefJUO5ig_zYiYbt3YDxOcU-1yaAeDHX8/edit
