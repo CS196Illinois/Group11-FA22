@@ -2,7 +2,6 @@ import pandas as pd
 import numpy as np
 import os
 import cv2
-import tqdm
 
 def folder_to_csv(folder, classification, save = False):
     """Folder is a folder path, classification is the string classifiction. Save is a boolean
